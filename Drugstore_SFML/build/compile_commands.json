@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/Lion/OneDrive/Desktop/sfmlgui/sfmlgui/build",
+  "command": "C:\\Users\\Lion\\Downloads\\Compressed\\compiler_hagh\\mingw32\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\app.dir\\main.cpp.obj -c C:\\Users\\Lion\\OneDrive\\Desktop\\sfmlgui\\sfmlgui\\main.cpp",
+  "file": "C:/Users/Lion/OneDrive/Desktop/sfmlgui/sfmlgui/main.cpp",
+  "output": "CMakeFiles/app.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lion/OneDrive/Desktop/sfmlgui/sfmlgui/build",
+  "command": "C:\\Users\\Lion\\Downloads\\Compressed\\compiler_hagh\\mingw32\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\app.dir\\shuffle.cpp.obj -c C:\\Users\\Lion\\OneDrive\\Desktop\\sfmlgui\\sfmlgui\\shuffle.cpp",
+  "file": "C:/Users/Lion/OneDrive/Desktop/sfmlgui/sfmlgui/shuffle.cpp",
+  "output": "CMakeFiles/app.dir/shuffle.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lion/OneDrive/Desktop/sfmlgui/sfmlgui/build",
+  "command": "C:\\Users\\Lion\\Downloads\\Compressed\\compiler_hagh\\mingw32\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\app.dir\\prescription.cpp.obj -c C:\\Users\\Lion\\OneDrive\\Desktop\\sfmlgui\\sfmlgui\\prescription.cpp",
+  "file": "C:/Users/Lion/OneDrive/Desktop/sfmlgui/sfmlgui/prescription.cpp",
+  "output": "CMakeFiles/app.dir/prescription.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lion/OneDrive/Desktop/sfmlgui/sfmlgui/build",
+  "command": "C:\\Users\\Lion\\Downloads\\Compressed\\compiler_hagh\\mingw32\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\app.dir\\check.cpp.obj -c C:\\Users\\Lion\\OneDrive\\Desktop\\sfmlgui\\sfmlgui\\check.cpp",
+  "file": "C:/Users/Lion/OneDrive/Desktop/sfmlgui/sfmlgui/check.cpp",
+  "output": "CMakeFiles/app.dir/check.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lion/OneDrive/Desktop/sfmlgui/sfmlgui/build",
+  "command": "C:\\Users\\Lion\\Downloads\\Compressed\\compiler_hagh\\mingw32\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\app.dir\\menu.cpp.obj -c C:\\Users\\Lion\\OneDrive\\Desktop\\sfmlgui\\sfmlgui\\menu.cpp",
+  "file": "C:/Users/Lion/OneDrive/Desktop/sfmlgui/sfmlgui/menu.cpp",
+  "output": "CMakeFiles/app.dir/menu.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lion/OneDrive/Desktop/sfmlgui/sfmlgui/build",
+  "command": "C:\\Users\\Lion\\Downloads\\Compressed\\compiler_hagh\\mingw32\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\app.dir\\engine.cpp.obj -c C:\\Users\\Lion\\OneDrive\\Desktop\\sfmlgui\\sfmlgui\\engine.cpp",
+  "file": "C:/Users/Lion/OneDrive/Desktop/sfmlgui/sfmlgui/engine.cpp",
+  "output": "CMakeFiles/app.dir/engine.cpp.obj"
+}
+]

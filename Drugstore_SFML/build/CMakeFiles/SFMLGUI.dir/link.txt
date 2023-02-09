@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\SFMLGUI.dir/objects.a
+C:\Users\Lion\Downloads\Compressed\compiler_hagh\mingw32\bin\ar.exe qc CMakeFiles\SFMLGUI.dir/objects.a @CMakeFiles\SFMLGUI.dir\objects1.rsp
+C:\Users\Lion\Downloads\Compressed\compiler_hagh\mingw32\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\SFMLGUI.dir/objects.a -Wl,--no-whole-archive -o SFMLGUI.exe -Wl,--out-implib,libSFMLGUI.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SFMLGUI.dir\linkLibs.rsp

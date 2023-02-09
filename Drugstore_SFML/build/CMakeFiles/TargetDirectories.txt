@@ -1,0 +1,3 @@
+C:/Users/Lion/OneDrive/Desktop/sfmlgui/sfmlgui/build/CMakeFiles/app.dir
+C:/Users/Lion/OneDrive/Desktop/sfmlgui/sfmlgui/build/CMakeFiles/edit_cache.dir
+C:/Users/Lion/OneDrive/Desktop/sfmlgui/sfmlgui/build/CMakeFiles/rebuild_cache.dir
